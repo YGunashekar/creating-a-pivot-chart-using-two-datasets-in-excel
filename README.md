@@ -10,6 +10,6 @@
 ## this youtube video explains creation of pivot chart from pivot table
 [![Watch the video](https://img.youtube.com/vi/mc7xO8F8Pj8/0.jpg)](https://www.youtube.com/watch?v=mc7xO8F8Pj8)
 
-## after creation of these pivot tables these are the images you will see on the way 
+## after creation of these pivot tables these are the images you will see on the way of creating pivot tables
 ![](https://github.com/YGunashekar/creating-a-pivot-chart-using-two-datasets-in-excel/blob/58ed2d2dc0e0a40bb66cbf731a25a785035e3d0d/Screenshot%202026-03-09%20140559.png)
 ![]()
