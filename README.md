@@ -14,5 +14,8 @@
 ![](https://github.com/YGunashekar/creating-a-pivot-chart-using-two-datasets-in-excel/blob/030f32af231f77be17be34b336efc3621036afd9/Screenshot%202026-03-09%20140519.png)
 ![](https://github.com/YGunashekar/creating-a-pivot-chart-using-two-datasets-in-excel/blob/58ed2d2dc0e0a40bb66cbf731a25a785035e3d0d/Screenshot%202026-03-09%20140559.png)
 ![](https://github.com/YGunashekar/creating-a-pivot-chart-using-two-datasets-in-excel/blob/aaeffc365e1e00d5d238365b4cd3b571c40f75e0/Screenshot%202026-03-09%20140359.png)
-![]()
+![](https://github.com/YGunashekar/creating-a-pivot-chart-using-two-datasets-in-excel/blob/dcba88c281987eb5a73b57eab4dadee850c2742f/Screenshot%202026-03-09%20140305.png)
+
+## final result 
+![](https://github.com/YGunashekar/creating-a-pivot-chart-using-two-datasets-in-excel/blob/dcba88c281987eb5a73b57eab4dadee850c2742f/Screenshot%202026-03-09%20140305.png)
 
